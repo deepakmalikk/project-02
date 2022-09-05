@@ -9,7 +9,7 @@
 ![html,css](https://img.shields.io/badge/html-CSS-9cf)
 ![project](https://img.shields.io/badge/PROJECT-02-blue)
 
-# Project [Deployed Link]("https://deepakproject02.netlify.app")
+# Project [Deployed Link](https://deepakproject02.netlify.app)
 
 - What I learned from this Project?
   - 
