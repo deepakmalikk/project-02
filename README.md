@@ -30,4 +30,4 @@
 ---
 
 ## ScreenShot
-![Project-img](./Readme/Screenshot.png)
+![Project-img](./readme/Screenshot.png)
